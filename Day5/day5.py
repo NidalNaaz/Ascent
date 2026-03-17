@@ -22,3 +22,4 @@ for i in range (len(array)):
             print(array[i],array[j])
 
 #o/p: 1 14, 12 3, 13 2, 10 5, -5 20, 0 1      
+ 
